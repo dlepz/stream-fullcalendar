@@ -1,20 +1,20 @@
 {
-  "name": "@sophoclesenterprises/events-calendar",
+  "name": "@finsweet/developer-starter",
   "version": "0.0.0",
   "description": "Developer starter template for Finsweet projects.",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "sophoclesenterprises",
-    "url": "https://gardenethic.com/"
+    "name": "Finsweet",
+    "url": "https://finsweet.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dlepz/stream-fullcalendar.git"
+    "url": "git+https://github.com/finsweet/developer-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/dlepz/stream-fullcalendar/issues"
+    "url": "https://github.com/finsweet/developer-starter/issues"
   },
   "type": "module",
   "main": "src/index.ts",
